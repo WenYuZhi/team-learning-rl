@@ -12,4 +12,4 @@ UC伯克利 CS294 深度强化学习课程：https://www.bilibili.com/video/BV1T
 
 Dimitri P. Bertsekas 强化学习2021版视频课程：https://space.bilibili.com/2036999141
 
-OR Talk NO.3 | 滴滴 AI Labs 秦志伟：深度强化学习
+OR Talk NO.3 | 滴滴 AI Labs 秦志伟：深度强化学习：https://www.bilibili.com/video/av76827074/
